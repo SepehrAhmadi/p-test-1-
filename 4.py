@@ -9,3 +9,6 @@ print(x)
 
 i = 20
 print(i)
+
+v = 20
+print(v)
